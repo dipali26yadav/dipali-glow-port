@@ -16,7 +16,7 @@ const projects = [
     github: "https://github.com/",
     demo: null,
   },
-  {
+    {
     title: "Expense Splitter",
     date: "June 2025",
     tech: ["React", "Node.js", "Express.js", "MySQL", "REST APIs"],
@@ -26,8 +26,8 @@ const projects = [
       "Integrated frontend with backend using Fetch API.",
       "Implemented expense distribution and balance calculation logic.",
     ],
-   github: "https://github.com/dipali26yadav/expense-splitter-ai",
-   demo: null,
+    github: "https://github.com/dipali26yadav/expense-splitter-ai",
+    demo: null,
   },
 ];
 

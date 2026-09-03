@@ -2,6 +2,7 @@ import { FiGithub, FiLinkedin, FiMail, FiHeart } from "react-icons/fi";
 import { SiLeetcode } from "react-icons/si";
 
 const socials = [
+
   { icon: FiGithub, href: "https://github.com/dipali26yadav", label: "GitHub" },
   { icon: SiLeetcode, href: "https://leetcode.com/u/Dipali26yadav/", label: "LeetCode" },
   { icon: FiLinkedin, href: "https://www.linkedin.com/in/dipali-yadav-76834221b/", label: "LinkedIn" },

@@ -6,8 +6,8 @@ import { Section } from "./Section";
 
 const contacts = [
   { icon: FiMail, label: "Email", value: "pateldeepali732@gmail.com", href: "mailto:pateldeepali732@gmail.com" },
-  { icon: FiGithub, label: "GitHub", value: "@dipali_yadav", href: "https://github.com/" },
-  { icon: FiLinkedin, label: "LinkedIn", value: "Dipali Yadav", href: "https://linkedin.com/" },
+  { icon: FiGithub, label: "GitHub", value: "@dipali26yadav", href: "https://github.com/dipali26yadav" },
+  { icon: FiLinkedin, label: "LinkedIn", value: "Dipali Yadav", href: "https://www.linkedin.com/in/dipali-yadav-76834221b/" },
   { icon: SiLeetcode, label: "LeetCode", value: "Dipali26yadav", href: "https://leetcode.com/u/Dipali26yadav/" },
 ];
 
