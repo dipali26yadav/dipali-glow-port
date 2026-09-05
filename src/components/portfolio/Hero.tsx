@@ -33,17 +33,10 @@ function useTyping() {
 }
 
 const socials = [
-<<<<<<< HEAD
-  { icon: FiGithub, href: "https://github.com/dipali26yadav", label:"GitHub" },
+  { icon: FiGithub, href: "https://github.com/dipali26yadav", label: "GitHub" },
   { icon: FiLinkedin, href: "https://www.linkedin.com/in/dipali-yadav-76834221b/", label: "LinkedIn" },
   { icon: SiLeetcode, href: "https://leetcode.com/u/Dipali26yadav/", label: "LeetCode" },
   { icon: FiMail, href: "mailto:pateldeepali732@gmail.com", label: "Email" },
-=======
-  { icon: FiGithub, href: "https://github.com/", label: "GitHub" },
-  { icon: FiLinkedin, href: "https://linkedin.com/", label: "LinkedIn" },
-  { icon: SiLeetcode, href: "https://leetcode.com/u/Dipali26yadav/", label: "LeetCode" },
-  { icon: FiMail, href: "mailto:dipali@example.com", label: "Email" },
->>>>>>> 75ca8f24c91352974edf186f2e8c7ac38f1e661d
 ];
 
 export function Hero() {

@@ -11,17 +11,17 @@ const items = [
     score: "CGPA: 7.4",
   },
   {
-    year: "2020 — 2021",
+    year: "2021 — 2022",
     title: "Higher Secondary (12th)",
     subtitle: "Science Stream",
-    place: "MP Board",
+    place: "CBSE Board",
     score: "81.6%",
   },
   {
-    year: "2018 — 2019",
+    year: "2019 — 2020",
     title: "Secondary (10th)",
     subtitle: "General",
-    place: "MP Board",
+    place: "CBSE Board",
     score: "83%",
   },
 ];
